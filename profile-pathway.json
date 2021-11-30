@@ -9,6 +9,11 @@
         "title": "Using KubeSphere DevOps",
         "description": "Using KubeSphere DevOps to automate the deployment of your applications",
         "id": "KubeSphere-DevOps"
+      },
+      {
+        "title": "Using KubeSphere ks-releaser",
+        "description": "Using KubeSphere ks-releaser to automate the release of your projects",
+        "id": "KubeSphere-ks-releaser"
       }
     ]
 }
