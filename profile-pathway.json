@@ -13,7 +13,7 @@
       {
         "title": "Using KubeSphere ks-releaser",
         "description": "Using KubeSphere ks-releaser to automate the release of your projects",
-        "id": "KubeSphere-ks-releaser"
+        "id": "KubeSphere ks-releaser"
       }
     ]
 }
