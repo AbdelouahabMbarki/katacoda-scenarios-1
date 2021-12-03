@@ -2,17 +2,17 @@
 
   "title": "Using KubeSphere ks-releaser",
 
-  "description": "Using KubeSphere DevOps to automate the deployment of your applications",
+  "description": "Using KubeSphere ks-releaser to automate the release of your projects",
   "difficulty": "beginner",
   "time": "60",
   "details": {
     "steps": [
       {
-        "title": "Install KubeSphere DevOps",
+        "title": "Install KubeSphere ks-releaser",
         "text": "step1.md"
       },
       {
-        "title": "Create Pipeline And run it using ks ",
+        "title": "Release project using ks-releaser ",
         "text": "step2.md"
       }
     ],
@@ -30,9 +30,7 @@
     }
   },
    "environment": {
-      "showdashboard": true,
-      "dashboards": [{"name": "Jenkins", "href": "https://[[HOST2_SUBDOMAIN]]-30180-[[KATACODA_HOST]].environments.katacoda.com"}],
-      "uilayout": "terminal"
+      "uilayout": "editor-terminal"
     },
   "backend": {
     "imageid": "kubernetes-cluster-running:1.18"
