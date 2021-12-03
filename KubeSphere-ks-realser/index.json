@@ -2,17 +2,21 @@
 
   "title": "Using KubeSphere DevOps",
 
-  "description": "Using KubeSphere DevOps to automate the deployment of your applications",
+  "description": "Using KubeSphere ks-releaser to automate the release of your projects",
   "difficulty": "beginner",
   "time": "60",
   "details": {
     "steps": [
       {
-        "title": "Install KubeSphere DevOps",
+        "title": "Install KubeSphere ks-releaser",
         "text": "step1.md"
       },
       {
-        "title": "Create Pipeline And run it using ks ",
+        "title": "Release your project with ks-releaser",
+        "text": "step2.md"
+      },
+      {
+        "title": "Use ks-releaser with argo-cd",
         "text": "step2.md"
       }
     ],
