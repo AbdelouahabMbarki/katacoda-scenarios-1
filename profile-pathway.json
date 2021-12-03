@@ -12,8 +12,8 @@
       },
       {
         "title": "Using KubeSphere ks-releaser",
-        "course_id":"KubeSphere-ks-realser",
         "description": "Using KubeSphere ks-releaser to automate the release of your projects",
+        "id":"KubeSphere-ks-realser"
       }
     ]
 }
